@@ -1,0 +1,13 @@
+body {
+color: rgb(239, 149, 200);
+}
+h1{
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+p {
+    font-family: "Playfair Display", serif;
+    font-weight: normal;
+}
